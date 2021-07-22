@@ -1,6 +1,6 @@
 ---
 title: A scheduled post
-date: '2022-06-18'
+date: 2021-07-22T16:01:02.103Z
 tags:
   - demo-content
   - simple-post
